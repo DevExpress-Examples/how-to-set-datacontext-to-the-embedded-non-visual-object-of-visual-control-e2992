@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataContextSLSample", "DataContextSLSample\DataContextSLSample.csproj", "{C8D1FBFD-88B4-40DA-82E5-3B717D9C18C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataContextSLSample.Web", "DataContextSLSample.Web\DataContextSLSample.Web.csproj", "{579677B3-73E6-4C23-B1ED-87325301C154}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8D1FBFD-88B4-40DA-82E5-3B717D9C18C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8D1FBFD-88B4-40DA-82E5-3B717D9C18C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8D1FBFD-88B4-40DA-82E5-3B717D9C18C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8D1FBFD-88B4-40DA-82E5-3B717D9C18C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{579677B3-73E6-4C23-B1ED-87325301C154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{579677B3-73E6-4C23-B1ED-87325301C154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{579677B3-73E6-4C23-B1ED-87325301C154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{579677B3-73E6-4C23-B1ED-87325301C154}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
