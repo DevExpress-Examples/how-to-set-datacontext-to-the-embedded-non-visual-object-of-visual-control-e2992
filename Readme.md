@@ -1,3 +1,15 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DataContextSLSampleTestPage.aspx](./CS/DataContextSLSample.Web/DataContextSLSampleTestPage.aspx) (VB: [DataContextSLSampleTestPage.aspx](./VB/DataContextSLSample.Web/DataContextSLSampleTestPage.aspx))
+* [DataContextBinder.cs](./CS/DataContextSLSample/DataContextBinder.cs) (VB: [DataContextBinder.vb](./VB/DataContextSLSample/DataContextBinder.vb))
+* [InnerClasses.cs](./CS/DataContextSLSample/InnerClasses.cs) (VB: [InnerClasses.vb](./VB/DataContextSLSample/InnerClasses.vb))
+* [MainPage.xaml](./CS/DataContextSLSample/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/DataContextSLSample/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/DataContextSLSample/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/DataContextSLSample/MainPage.xaml.vb))
+* [Model.cs](./CS/DataContextSLSample/Model.cs) (VB: [Model.vb](./VB/DataContextSLSample/Model.vb))
+* [ViewClasses.cs](./CS/DataContextSLSample/ViewClasses.cs) (VB: [ViewClasses.vb](./VB/DataContextSLSample/ViewClasses.vb))
+* [ViewModel.cs](./CS/DataContextSLSample/ViewModel.cs) (VB: [ViewModel.vb](./VB/DataContextSLSample/ViewModel.vb))
+<!-- default file list end -->
 # How to set DataContext to the embedded non-visual object of visual control
 
 
